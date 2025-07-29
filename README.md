@@ -37,6 +37,7 @@ Durante o desenvolvimento, o cliente solicitou suporte a login de usuários. Ess
 
 ## 👤 Desenvolvedora
 Izabella Cardoso
+Projeto desenvolvido para o portfólio da disciplina de Engenharia de Software
 =======
 # taskflow-agile-manager
 >>>>>>> 20643d94abacced6cd6d96569da034d784da3f45
