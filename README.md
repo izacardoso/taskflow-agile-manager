@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow Agile Manager
 
 ## 🎯 Objetivo
@@ -36,3 +37,6 @@ Durante o desenvolvimento, o cliente solicitou suporte a login de usuários. Ess
 
 ## 👤 Desenvolvedora
 Izabella Cardoso
+=======
+# taskflow-agile-manager
+>>>>>>> 20643d94abacced6cd6d96569da034d784da3f45
